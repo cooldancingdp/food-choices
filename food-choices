@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Choices</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #343a40;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #007bff;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #e9ecef;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Food Choices</h1>
+    </header>
+    <main>
+        <h2>Healthy Options</h2>
+        <ul>
+            <li>Fresh fruits and vegetables</li>
+            <li>Whole grains like quinoa and brown rice</li>
+            <li>Lean proteins such as chicken, tofu, and fish</li>
+        </ul>
+
+        <h2>Treat Yourself</h2>
+        <ul>
+            <li>Dark chocolate</li>
+            <li>Homemade cookies</li>
+            <li>Ice cream</li>
+        </ul>
+
+        <h2>Stay Hydrated</h2>
+        <ul>
+            <li>Water with lemon</li>
+            <li>Herbal teas</li>
+            <li>Freshly squeezed juices</li>
+        </ul>
+    </main>
+    <footer>
+        <p>Enjoy your food choices mindfully!</p>
+    </footer>
+</body>
+</html>
